@@ -1,0 +1,12 @@
+main{
+    background-color: #35A29F;
+}
+.inner{
+    width: 800px;
+}
+h1{
+    font-size: 45px;
+}
+button:hover{
+    background-color: cadetblue !important;
+}
