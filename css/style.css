@@ -1,12 +1,16 @@
-main{
-    background-color: #35A29F;
+main {
+  background-color: #35a29f;
 }
-.inner{
-    width: 800px;
+.inner {
+  width: 800px;
 }
-h1{
-    font-size: 45px;
+h1 {
+  font-size: 45px;
 }
-button:hover{
-    background-color: cadetblue !important;
+button:hover {
+  background-color: cadetblue !important;
+}
+#read {
+  cursor: pointer;
+  display: none;
 }
