@@ -1,6 +1,6 @@
 let quotes = [];
 async function response() {
-  let apiRespone = await fetch(`https://api.quotable.io/quotes/random?limit=5`);
+  let apiRespone = await fetch(`https://api.quotable.io/quotes/random?limit=5000`);
   quotes = await apiRespone.json();
 }
 
